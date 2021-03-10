@@ -50,16 +50,16 @@
 <line x1='40.24' y1='148.29' x2='282.52' y2='148.29' style='stroke-width: 1.07; stroke-linecap: butt;' />
 </g>
 <g clip-path='url(#cpMC4wMHwyODguMDB8MC4wMHwxODAuMDA=)'>
-<text x='35.31' y='151.50' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: DejaVu Sans;' textLength='5.59px' lengthAdjust='spacingAndGlyphs'>0</text>
-<text x='35.31' y='117.97' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: DejaVu Sans;' textLength='16.78px' lengthAdjust='spacingAndGlyphs'>300</text>
-<text x='35.31' y='84.43' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: DejaVu Sans;' textLength='16.78px' lengthAdjust='spacingAndGlyphs'>600</text>
-<text x='35.31' y='50.90' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: DejaVu Sans;' textLength='16.78px' lengthAdjust='spacingAndGlyphs'>900</text>
-<text x='70.17' y='159.64' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: DejaVu Sans;' textLength='11.19px' lengthAdjust='spacingAndGlyphs'>04</text>
-<text x='107.39' y='159.64' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: DejaVu Sans;' textLength='11.19px' lengthAdjust='spacingAndGlyphs'>06</text>
-<text x='144.60' y='159.64' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: DejaVu Sans;' textLength='11.19px' lengthAdjust='spacingAndGlyphs'>08</text>
-<text x='181.82' y='159.64' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: DejaVu Sans;' textLength='11.19px' lengthAdjust='spacingAndGlyphs'>10</text>
-<text x='219.04' y='159.64' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: DejaVu Sans;' textLength='11.19px' lengthAdjust='spacingAndGlyphs'>12</text>
-<text x='256.87' y='159.64' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: DejaVu Sans;' textLength='11.19px' lengthAdjust='spacingAndGlyphs'>02</text>
-<text x='40.24' y='15.10' style='font-size: 13.20px; font-family: DejaVu Sans;' textLength='191.35px' lengthAdjust='spacingAndGlyphs'>Łącznie zebranych sekwencji</text>
+<text x='35.31' y='151.50' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='5.59px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='35.31' y='117.97' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='16.78px' lengthAdjust='spacingAndGlyphs'>300</text>
+<text x='35.31' y='84.43' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='16.78px' lengthAdjust='spacingAndGlyphs'>600</text>
+<text x='35.31' y='50.90' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='16.78px' lengthAdjust='spacingAndGlyphs'>900</text>
+<text x='70.17' y='159.64' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='11.19px' lengthAdjust='spacingAndGlyphs'>04</text>
+<text x='107.39' y='159.64' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='11.19px' lengthAdjust='spacingAndGlyphs'>06</text>
+<text x='144.60' y='159.64' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='11.19px' lengthAdjust='spacingAndGlyphs'>08</text>
+<text x='181.82' y='159.64' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='11.19px' lengthAdjust='spacingAndGlyphs'>10</text>
+<text x='219.04' y='159.64' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='11.19px' lengthAdjust='spacingAndGlyphs'>12</text>
+<text x='256.87' y='159.64' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='11.19px' lengthAdjust='spacingAndGlyphs'>02</text>
+<text x='40.24' y='15.10' style='font-size: 13.20px; font-family: Arial;' textLength='191.35px' lengthAdjust='spacingAndGlyphs'>Łącznie zebranych sekwencji</text>
 </g>
 </svg>
