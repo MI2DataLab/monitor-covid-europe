@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='576.00pt' height='90.00pt' viewBox='0 0 576.00 90.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw1NzYuMDB8MC4wMHw5MC4wMA=='>
+    <rect x='0.00' y='0.00' width='576.00' height='90.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw5MC4wMA==)'>
+</g>
+<defs>
+  <clipPath id='cpMTguNDF8NTcwLjUyfDQwLjA5fDU4LjUw'>
+    <rect x='18.41' y='40.09' width='552.11' height='18.41' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMTguNDF8NTcwLjUyfDQwLjA5fDU4LjUw)'>
+<polyline points='107.80,58.50 107.80,40.09 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='236.39,58.50 236.39,40.09 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='358.76,58.50 358.76,40.09 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='481.13,58.50 481.13,40.09 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='43.51,58.50 43.51,40.09 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='172.10,58.50 172.10,40.09 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='300.69,58.50 300.69,40.09 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='416.84,58.50 416.84,40.09 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='545.42,58.50 545.42,40.09 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+</g>
+<g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw5MC4wMA==)'>
+</g>
+<defs>
+  <clipPath id='cpMTguNDF8NTcwLjUyfDIzLjE4fDQwLjA5'>
+    <rect x='18.41' y='23.18' width='552.11' height='16.92' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMTguNDF8NTcwLjUyfDIzLjE4fDQwLjA5)'>
+<text x='294.47' y='34.79' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='20.54px' lengthAdjust='spacingAndGlyphs'> Riga</text>
+</g>
+<g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw5MC4wMA==)'>
+<text x='43.51' y='69.74' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='9.79px' lengthAdjust='spacingAndGlyphs'>12</text>
+<text x='172.10' y='69.74' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='9.79px' lengthAdjust='spacingAndGlyphs'>01</text>
+<text x='300.69' y='69.74' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='9.79px' lengthAdjust='spacingAndGlyphs'>02</text>
+<text x='416.84' y='69.74' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='9.79px' lengthAdjust='spacingAndGlyphs'>03</text>
+<text x='545.42' y='69.74' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='9.79px' lengthAdjust='spacingAndGlyphs'>04</text>
+<text x='18.41' y='14.93' style='font-size: 13.20px; font-family: Arial;' textLength='415.71px' lengthAdjust='spacingAndGlyphs'>Proporcja sekwencji na tydzień w województwach (ostatnie 3 miesiące)</text>
+</g>
+</svg>
