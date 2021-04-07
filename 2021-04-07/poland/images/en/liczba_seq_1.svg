@@ -57,8 +57,8 @@
 <rect x='80.90' y='146.06' width='3.97' height='2.44' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: square; stroke-linejoin: miter; fill: #595959;' />
 <rect x='84.87' y='144.93' width='3.97' height='3.57' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: square; stroke-linejoin: miter; fill: #595959;' />
 <rect x='88.84' y='141.36' width='3.97' height='7.14' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: square; stroke-linejoin: miter; fill: #595959;' />
-<rect x='92.81' y='147.38' width='3.97' height='1.13' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: square; stroke-linejoin: miter; fill: #595959;' />
-<rect x='96.77' y='148.32' width='3.97' height='0.19' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: square; stroke-linejoin: miter; fill: #595959;' />
+<rect x='92.81' y='146.25' width='3.97' height='2.25' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: square; stroke-linejoin: miter; fill: #595959;' />
+<rect x='96.77' y='148.13' width='3.97' height='0.38' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: square; stroke-linejoin: miter; fill: #595959;' />
 <rect x='100.74' y='141.74' width='3.97' height='6.76' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: square; stroke-linejoin: miter; fill: #595959;' />
 <rect x='104.71' y='147.56' width='3.97' height='0.94' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: square; stroke-linejoin: miter; fill: #595959;' />
 <rect x='108.68' y='148.32' width='3.97' height='0.19' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: square; stroke-linejoin: miter; fill: #595959;' />
@@ -101,7 +101,7 @@
 <rect x='255.53' y='36.14' width='3.97' height='112.36' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: square; stroke-linejoin: miter; fill: #595959;' />
 <rect x='259.50' y='59.25' width='3.97' height='89.25' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: square; stroke-linejoin: miter; fill: #595959;' />
 <rect x='263.47' y='135.16' width='3.97' height='13.34' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: square; stroke-linejoin: miter; fill: #595959;' />
-<rect x='267.44' y='139.30' width='3.97' height='9.21' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: square; stroke-linejoin: miter; fill: #595959;' />
+<rect x='267.44' y='138.92' width='3.97' height='9.58' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: square; stroke-linejoin: miter; fill: #595959;' />
 </g>
 <g clip-path='url(#cpMC4wMHwyODguMDB8MC4wMHwxODAuMDA=)'>
 <text x='33.10' y='151.65' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='4.90px' lengthAdjust='spacingAndGlyphs'>0</text>
