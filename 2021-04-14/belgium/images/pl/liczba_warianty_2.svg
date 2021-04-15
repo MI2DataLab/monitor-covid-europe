@@ -123,6 +123,6 @@
 <text x='501.14' y='195.74' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='22.03px' lengthAdjust='spacingAndGlyphs'>03/22</text>
 <text x='528.78' y='195.74' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='22.03px' lengthAdjust='spacingAndGlyphs'>04/05</text>
 <text x='556.41' y='195.74' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='22.03px' lengthAdjust='spacingAndGlyphs'>04/19</text>
-<text x='42.93' y='14.93' style='font-size: 13.20px; font-family: Arial;' textLength='463.33px' lengthAdjust='spacingAndGlyphs'>Skumulowana liczba sekwencji wariantów wirusa (GISAID, ostatnie 3 miesiące)</text>
+<text x='42.93' y='14.93' style='font-size: 13.20px; font-family: Arial;' textLength='456.03px' lengthAdjust='spacingAndGlyphs'>Skumulowana liczba sekwencji wariantów wirusa (Pango, ostatnie 6 miesięcy)</text>
 </g>
 </svg>

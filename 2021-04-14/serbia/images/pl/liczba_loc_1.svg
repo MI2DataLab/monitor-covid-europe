@@ -302,7 +302,7 @@
 <polyline points='180.84,258.18 180.84,200.42 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
 <polyline points='202.73,258.18 202.73,200.42 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
 <polyline points='226.97,258.18 226.97,200.42 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<rect x='149.44' y='243.74' width='4.93' height='14.44' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #BEBEBE;' />
+<rect x='149.44' y='258.18' width='4.93' height='0.00' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #BEBEBE;' />
 <rect x='154.92' y='258.18' width='4.93' height='0.00' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #BEBEBE;' />
 <rect x='160.39' y='258.18' width='4.93' height='0.00' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #BEBEBE;' />
 <rect x='165.86' y='258.18' width='4.93' height='0.00' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #BEBEBE;' />
@@ -339,7 +339,7 @@
 <polyline points='180.84,338.34 180.84,280.58 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
 <polyline points='202.73,338.34 202.73,280.58 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
 <polyline points='226.97,338.34 226.97,280.58 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<rect x='149.44' y='338.34' width='4.93' height='0.00' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #BEBEBE;' />
+<rect x='149.44' y='323.90' width='4.93' height='14.44' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #BEBEBE;' />
 <rect x='154.92' y='338.34' width='4.93' height='0.00' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #BEBEBE;' />
 <rect x='160.39' y='338.34' width='4.93' height='0.00' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #BEBEBE;' />
 <rect x='165.86' y='338.34' width='4.93' height='0.00' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #BEBEBE;' />
@@ -922,7 +922,7 @@
   </clipPath>
 </defs>
 <g clip-path='url(#cpMjguMjR8MTMyLjMxfDM0My44MnwzNjAuNzQ=)'>
-<text x='80.28' y='355.43' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='27.56px' lengthAdjust='spacingAndGlyphs'> Vranje</text>
+<text x='80.28' y='355.43' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='27.40px' lengthAdjust='spacingAndGlyphs'> Sabac</text>
 </g>
 <g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw0NTAuMDA=)'>
 </g>
@@ -932,7 +932,7 @@
   </clipPath>
 </defs>
 <g clip-path='url(#cpMTM3Ljc5fDI0MS44N3wzNDMuODJ8MzYwLjc0)'>
-<text x='189.83' y='355.43' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='25.11px' lengthAdjust='spacingAndGlyphs'> Vrbas</text>
+<text x='189.83' y='355.43' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='38.66px' lengthAdjust='spacingAndGlyphs'> Srbobran</text>
 </g>
 <g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw0NTAuMDA=)'>
 </g>
@@ -942,7 +942,7 @@
   </clipPath>
 </defs>
 <g clip-path='url(#cpMjQ3LjM1fDM1MS40MnwzNDMuODJ8MzYwLjc0)'>
-<text x='299.38' y='355.43' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='24.62px' lengthAdjust='spacingAndGlyphs'> Vrsac</text>
+<text x='299.38' y='355.43' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='74.82px' lengthAdjust='spacingAndGlyphs'> Sremska Mitrovica</text>
 </g>
 <g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw0NTAuMDA=)'>
 </g>
@@ -952,7 +952,7 @@
   </clipPath>
 </defs>
 <g clip-path='url(#cpMzU2LjkwfDQ2MC45N3wzNDMuODJ8MzYwLjc0)'>
-<text x='408.93' y='355.43' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='22.02px' lengthAdjust='spacingAndGlyphs'>Other</text>
+<text x='408.93' y='355.43' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='17.14px' lengthAdjust='spacingAndGlyphs'>Inne</text>
 </g>
 <g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw0NTAuMDA=)'>
 </g>
@@ -971,7 +971,7 @@
   </clipPath>
 </defs>
 <g clip-path='url(#cpMjguMjR8MTMyLjMxfDI2My42NnwyODAuNTg=)'>
-<text x='80.28' y='275.27' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='38.66px' lengthAdjust='spacingAndGlyphs'> Srbobran</text>
+<text x='80.28' y='275.27' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='45.48px' lengthAdjust='spacingAndGlyphs'> Novi Pazar</text>
 </g>
 <g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw0NTAuMDA=)'>
 </g>
@@ -981,7 +981,7 @@
   </clipPath>
 </defs>
 <g clip-path='url(#cpMTM3Ljc5fDI0MS44N3wyNjMuNjZ8MjgwLjU4)'>
-<text x='189.83' y='275.27' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='74.82px' lengthAdjust='spacingAndGlyphs'> Sremska Mitrovica</text>
+<text x='189.83' y='275.27' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='38.15px' lengthAdjust='spacingAndGlyphs'> Novi Sad</text>
 </g>
 <g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw0NTAuMDA=)'>
 </g>
@@ -991,7 +991,7 @@
   </clipPath>
 </defs>
 <g clip-path='url(#cpMjQ3LjM1fDM1MS40MnwyNjMuNjZ8MjgwLjU4)'>
-<text x='299.38' y='275.27' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='36.70px' lengthAdjust='spacingAndGlyphs'> Subotica</text>
+<text x='299.38' y='275.27' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='36.70px' lengthAdjust='spacingAndGlyphs'> Pancevo</text>
 </g>
 <g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw0NTAuMDA=)'>
 </g>
@@ -1001,7 +1001,7 @@
   </clipPath>
 </defs>
 <g clip-path='url(#cpMzU2LjkwfDQ2MC45N3wyNjMuNjZ8MjgwLjU4)'>
-<text x='408.93' y='275.27' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='18.58px' lengthAdjust='spacingAndGlyphs'> Titel</text>
+<text x='408.93' y='275.27' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='20.54px' lengthAdjust='spacingAndGlyphs'> Pirot</text>
 </g>
 <g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw0NTAuMDA=)'>
 </g>
@@ -1011,7 +1011,7 @@
   </clipPath>
 </defs>
 <g clip-path='url(#cpNDY2LjQ1fDU3MC41MnwyNjMuNjZ8MjgwLjU4)'>
-<text x='518.48' y='275.27' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='24.44px' lengthAdjust='spacingAndGlyphs'> Uzice</text>
+<text x='518.48' y='275.27' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='25.92px' lengthAdjust='spacingAndGlyphs'> Ruma</text>
 </g>
 <g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw0NTAuMDA=)'>
 </g>
@@ -1021,7 +1021,7 @@
   </clipPath>
 </defs>
 <g clip-path='url(#cpMjguMjR8MTMyLjMxfDE4My41MHwyMDAuNDI=)'>
-<text x='80.28' y='195.11' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='45.48px' lengthAdjust='spacingAndGlyphs'> Novi Pazar</text>
+<text x='80.28' y='195.11' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='39.13px' lengthAdjust='spacingAndGlyphs'> Krusevac</text>
 </g>
 <g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw0NTAuMDA=)'>
 </g>
@@ -1031,7 +1031,7 @@
   </clipPath>
 </defs>
 <g clip-path='url(#cpMTM3Ljc5fDI0MS44N3wxODMuNTB8MjAwLjQy)'>
-<text x='189.83' y='195.11' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='38.15px' lengthAdjust='spacingAndGlyphs'> Novi Sad</text>
+<text x='189.83' y='195.11' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='39.63px' lengthAdjust='spacingAndGlyphs'> Leskovac</text>
 </g>
 <g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw0NTAuMDA=)'>
 </g>
@@ -1041,7 +1041,7 @@
   </clipPath>
 </defs>
 <g clip-path='url(#cpMjQ3LjM1fDM1MS40MnwxODMuNTB8MjAwLjQy)'>
-<text x='299.38' y='195.11' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='36.70px' lengthAdjust='spacingAndGlyphs'> Pancevo</text>
+<text x='299.38' y='195.11' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='27.89px' lengthAdjust='spacingAndGlyphs'> Lipljan</text>
 </g>
 <g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw0NTAuMDA=)'>
 </g>
@@ -1051,7 +1051,7 @@
   </clipPath>
 </defs>
 <g clip-path='url(#cpMzU2LjkwfDQ2MC45N3wxODMuNTB8MjAwLjQy)'>
-<text x='408.93' y='195.11' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='20.54px' lengthAdjust='spacingAndGlyphs'> Pirot</text>
+<text x='408.93' y='195.11' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='40.61px' lengthAdjust='spacingAndGlyphs'> Medvedja</text>
 </g>
 <g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw0NTAuMDA=)'>
 </g>
@@ -1061,7 +1061,7 @@
   </clipPath>
 </defs>
 <g clip-path='url(#cpNDY2LjQ1fDU3MC41MnwxODMuNTB8MjAwLjQy)'>
-<text x='518.48' y='195.11' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='27.40px' lengthAdjust='spacingAndGlyphs'> Sabac</text>
+<text x='518.48' y='195.11' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='15.15px' lengthAdjust='spacingAndGlyphs'> Nis</text>
 </g>
 <g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw0NTAuMDA=)'>
 </g>
@@ -1081,7 +1081,7 @@
   </clipPath>
 </defs>
 <g clip-path='url(#cpMTM3Ljc5fDI0MS44N3wxMDMuMzR8MTIwLjI2)'>
-<text x='189.83' y='114.95' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='34.24px' lengthAdjust='spacingAndGlyphs'> Kraljevo</text>
+<text x='189.83' y='114.95' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='42.56px' lengthAdjust='spacingAndGlyphs'> Gracanica</text>
 </g>
 <g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw0NTAuMDA=)'>
 </g>
@@ -1091,7 +1091,7 @@
   </clipPath>
 </defs>
 <g clip-path='url(#cpMjQ3LjM1fDM1MS40MnwxMDMuMzR8MTIwLjI2)'>
-<text x='299.38' y='114.95' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='39.13px' lengthAdjust='spacingAndGlyphs'> Krusevac</text>
+<text x='299.38' y='114.95' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='31.31px' lengthAdjust='spacingAndGlyphs'> Kikinda</text>
 </g>
 <g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw0NTAuMDA=)'>
 </g>
@@ -1101,7 +1101,7 @@
   </clipPath>
 </defs>
 <g clip-path='url(#cpMzU2LjkwfDQ2MC45N3wxMDMuMzR8MTIwLjI2)'>
-<text x='408.93' y='114.95' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='39.63px' lengthAdjust='spacingAndGlyphs'> Leskovac</text>
+<text x='408.93' y='114.95' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='46.48px' lengthAdjust='spacingAndGlyphs'> Kragujevac</text>
 </g>
 <g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw0NTAuMDA=)'>
 </g>
@@ -1111,7 +1111,7 @@
   </clipPath>
 </defs>
 <g clip-path='url(#cpNDY2LjQ1fDU3MC41MnwxMDMuMzR8MTIwLjI2)'>
-<text x='518.48' y='114.95' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='15.15px' lengthAdjust='spacingAndGlyphs'> Nis</text>
+<text x='518.48' y='114.95' text-anchor='middle' style='font-size: 8.80px; fill: #1A1A1A; font-family: Arial;' textLength='34.24px' lengthAdjust='spacingAndGlyphs'> Kraljevo</text>
 </g>
 <g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw0NTAuMDA=)'>
 </g>

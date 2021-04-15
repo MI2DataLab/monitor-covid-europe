@@ -120,6 +120,6 @@
 <text x='499.85' y='195.74' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='22.03px' lengthAdjust='spacingAndGlyphs'>03/22</text>
 <text x='528.00' y='195.74' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='22.03px' lengthAdjust='spacingAndGlyphs'>04/05</text>
 <text x='556.15' y='195.74' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: Arial;' textLength='22.03px' lengthAdjust='spacingAndGlyphs'>04/19</text>
-<text x='33.14' y='14.93' style='font-size: 13.20px; font-family: Arial;' textLength='414.22px' lengthAdjust='spacingAndGlyphs'>Cumulative number of virus variant sequences (GISAID, last 3 months)</text>
+<text x='33.14' y='14.93' style='font-size: 13.20px; font-family: Arial;' textLength='407.66px' lengthAdjust='spacingAndGlyphs'>Cumulative number of virus variant sequences (Pango, last 6 months)</text>
 </g>
 </svg>
